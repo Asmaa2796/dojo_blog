@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dojo_blog/static/css/main.9033dd12.css",
+    "main.js": "/dojo_blog/static/js/main.04df1151.js",
+    "static/media/tech1.jpg": "/dojo_blog/static/media/tech1.cfcf60377411b7e46ef2.jpg",
+    "static/media/tech.jpg": "/dojo_blog/static/media/tech.b10b797ccdc9f892d3b9.jpg",
+    "static/media/fa-solid-900.ttf": "/dojo_blog/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/dojo_blog/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/dojo_blog/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/dojo_blog/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/Quicksand-SemiBold.ttf": "/dojo_blog/static/media/Quicksand-SemiBold.80ffdcf8e73fc889b11f.ttf",
+    "static/media/fa-regular-400.ttf": "/dojo_blog/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/dojo_blog/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/quotes.png": "/dojo_blog/static/media/quotes.6ad88879a3098b70d121.png",
+    "static/media/fa-v4compatibility.ttf": "/dojo_blog/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/dojo_blog/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/dojo_blog/index.html",
+    "main.9033dd12.css.map": "/dojo_blog/static/css/main.9033dd12.css.map",
+    "main.04df1151.js.map": "/dojo_blog/static/js/main.04df1151.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9033dd12.css",
+    "static/js/main.04df1151.js"
+  ]
+}
