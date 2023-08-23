@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Programming made easy",
+      "description": "We focus on simplicity. Programming tutorials and examples written in simple, understandable language for beginners.",
+      "author": "Asmaa",
+      "category": "React js"
+    },
+    {
+      "id": 2,
+      "title": "Content You Can Trust",
+      "description": "A dedicated group of experts continually working to create programming resources that is accurate and easier to understand.",
+      "author": "Asmaa",
+      "category": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Learn by Doing",
+      "description": "A dedicated group of experts continually working to create programming resources that is accurate and easier to understand.",
+      "author": "test",
+      "category": "Css"
+    },
+    {
+      "title": "Learn programming",
+      "description": "We believe coding should be accessible to all. So we made our own compilers for web and mobile. And it's free!",
+      "author": "Asmaa",
+      "id": 4,
+      "category": "React js"
+    },
+    {
+      "title": "Thinking in React Hooks",
+      "description": "React introduced hooks one year ago, and they've been a game-changer for a lot of developers. There are tons of how-to introduction resources out there, but I want to talk about the fundamental mindset change when switching from React class components to function components + hooks.",
+      "author": "Asmaa",
+      "id": 5,
+      "category": "Css"
+    }
+  ]
+}
